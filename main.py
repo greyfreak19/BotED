@@ -26,4 +26,4 @@ async def ping(ctx):
 async def clear(ctx, amount: int):
     await ctx.channel.purge(limit=amount+1)
 
-bot.run('NDAzMzM2NzQzMzE2ODgxNDEw.XhVUDQ.nq-445l75ZhWaQFHUj0DOj0cu3I')
+bot.run('INSERT YOUR OWN BOT TOKEN HERE!')
