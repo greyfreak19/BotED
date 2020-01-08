@@ -1,4 +1,4 @@
-# ED-Bot
+# BotED
 A Discord Bot made in python using the Discord.py API Wrapper Library by Rapptz.
 
 Not much to see here right now as there are only a measly 3 functions and a single file.
